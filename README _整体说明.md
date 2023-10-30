@@ -31,3 +31,9 @@ Intel(R) Xeon(R) Gold 6130 CPU @ 2.10GHz
 25GB内存
 
 30 GB系统盘
+
+### 四.预训练模型下载
+如果想要运行笔者的动物预测代码又没有使用模型训练的代码生成模型，可以使用笔者训练好的模型。
+下载地址：
+链接：https://pan.baidu.com/s/16QNey4jaaCEiK-n1SjSfAw?pwd=1234 
+提取码：1234
